@@ -1,2 +1,2 @@
 # Thesis_part_2
-Neural netowrk and error analysis
+Neural network,error analysis and optimisation of parameters of Neural Network
